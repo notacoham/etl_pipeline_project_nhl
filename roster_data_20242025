@@ -1,0 +1,26 @@
+id,headshot,firstName,lastName,sweaterNumber,positionCode,shootsCatches,heightInInches,weightInPounds,heightInCentimeters,weightInKilograms,birthDate,birthCity,birthCountry,birthStateProvince
+8475760,https://assets.nhle.com/mugs/nhl/20242025/UTA/8475760.png,{'default': 'Nick'},{'default': 'Bjugstad'},17,C,R,78,205,198,93,1992-07-17,{'default': 'Minneapolis'},USA,{'default': 'MN'}
+8479619,https://assets.nhle.com/mugs/nhl/20242025/UTA/8479619.png,{'default': 'Michael'},{'default': 'Carcone'},53,L,L,69,182,175,83,1996-05-19,{'default': 'Ajax'},CAN,{'default': 'ON'}
+8483431,https://assets.nhle.com/mugs/nhl/20242025/UTA/8483431.png,{'default': 'Logan'},{'default': 'Cooley'},92,C,L,72,191,183,87,2004-05-04,{'default': 'Pittsburgh'},USA,{'default': 'PA'}
+8478474,https://assets.nhle.com/mugs/nhl/20242025/UTA/8478474.png,{'default': 'Lawson'},{'default': 'Crouse'},67,L,L,76,214,193,97,1997-06-23,{'default': 'Mt. Brydges'},CAN,{'default': 'ON'}
+8482699,https://assets.nhle.com/mugs/nhl/20242025/UTA/8482699.png,{'default': 'Dylan'},{'default': 'Guenther'},11,R,R,73,191,185,87,2003-04-10,{'default': 'Edmonton'},CAN,{'default': 'AB'}
+8480849,https://assets.nhle.com/mugs/nhl/20242025/UTA/8480849.png,{'default': 'Barrett'},{'default': 'Hayton'},27,C,L,73,200,185,91,2000-06-09,{'default': 'Peterborough'},CAN,{'default': 'ON'}
+8479343,https://assets.nhle.com/mugs/nhl/20242025/UTA/8479343.png,{'default': 'Clayton'},{'default': 'Keller'},9,C,L,70,175,178,79,1998-07-29,{'default': 'Chesterfield'},USA,{'default': 'MO'}
+8477021,https://assets.nhle.com/mugs/nhl/20242025/UTA/8477021.png,"{'default': 'Alexander', 'fr': 'Alex'}",{'default': 'Kerfoot'},15,C,L,71,185,180,84,1994-08-11,{'default': 'Vancouver'},CAN,{'default': 'BC'}
+8481711,https://assets.nhle.com/mugs/nhl/20242025/UTA/8481711.png,{'default': 'Matias'},{'default': 'Maccelli'},63,L,L,71,185,180,84,2000-10-14,"{'default': 'Turku', 'sv': 'Åbo'}",FIN,
+8480855,https://assets.nhle.com/mugs/nhl/20242025/UTA/8480855.png,{'default': 'Jack'},{'default': 'McBain'},22,C,L,76,219,193,99,2000-01-06,{'default': 'Toronto'},CAN,{'default': 'ON'}
+8477070,https://assets.nhle.com/mugs/nhl/20242025/UTA/8477070.png,{'default': 'Liam'},"{'default': ""O'Brien""}",38,C,L,73,215,185,98,1994-07-29,{'default': 'Halifax'},CAN,{'default': 'NS'}
+8477951,https://assets.nhle.com/mugs/nhl/20242025/UTA/8477951.png,{'default': 'Nick'},{'default': 'Schmaltz'},8,C,R,72,184,183,83,1996-02-23,{'default': 'Madison'},USA,{'default': 'WI'}
+8478831,https://assets.nhle.com/mugs/nhl/20242025/UTA/8478831.png,{'default': 'Kevin'},{'default': 'Stenlund'},82,C,R,77,213,196,97,1996-09-20,"{'default': 'Stockholm', 'fi': 'Tukholma'}",SWE,
+8474145,https://assets.nhle.com/mugs/nhl/20242025/UTA/8474145.png,{'default': 'Robert'},{'default': 'Bortuzzo'},41,D,R,76,206,193,93,1989-03-18,{'default': 'Thunder Bay'},CAN,{'default': 'ON'}
+8474013,https://assets.nhle.com/mugs/nhl/20242025/UTA/8474013.png,{'default': 'Ian'},{'default': 'Cole'},28,D,L,73,237,185,108,1989-02-21,{'default': 'Ann Arbor'},USA,{'default': 'MI'}
+8480434,https://assets.nhle.com/mugs/nhl/20242025/UTA/8480434.png,{'default': 'Sean'},{'default': 'Durzi'},50,D,R,73,199,185,90,1998-10-21,{'default': 'Mississauga'},CAN,{'default': 'ON'}
+8480891,https://assets.nhle.com/mugs/nhl/20242025/UTA/8480891.png,{'default': 'Michael'},{'default': 'Kesselring'},7,D,R,76,215,193,98,2000-01-13,{'default': 'New Hampton'},USA,{'default': 'NH'}
+8481609,https://assets.nhle.com/mugs/nhl/20242025/UTA/8481609.png,{'default': 'Vladislav'},"{'default': 'Kolyachonok', 'cs': 'Koljačonok', 'fi': 'Koljatshonok', 'sk': 'Koljačonok'}",52,D,L,74,195,188,88,2001-05-26,{'default': 'Minsk'},BLR,
+8483472,https://assets.nhle.com/mugs/nhl/20242025/UTA/8483472.png,{'default': 'Maveric'},{'default': 'Lamoureux'},10,D,R,78,196,198,89,2004-01-13,{'default': 'Laval'},CAN,{'default': 'QC'}
+8476874,https://assets.nhle.com/mugs/nhl/20242025/UTA/8476874.png,{'default': 'Olli'},"{'default': 'Maatta', 'cs': 'Määttä', 'fi': 'Määttä', 'sk': 'Määttä', 'sv': 'Määttä'}",2,D,L,74,207,188,94,1994-08-22,{'default': 'Jyväskylä'},FIN,
+8479410,https://assets.nhle.com/mugs/nhl/20242025/UTA/8479410.png,"{'default': 'Mikhail', 'cs': 'Michail', 'fi': 'Mihail', 'sk': 'Michail'}","{'default': 'Sergachev', 'cs': 'Sergačov', 'fi': 'Sergatshov', 'sk': 'Sergačov'}",98,D,L,75,212,191,96,1998-06-25,"{'default': 'Nizhnekamsk', 'cs': 'Nižněkamsk', 'fi': 'Nižnekamsk', 'sk': 'Nižněkamsk', 'sv': 'Nizhnekampsk'}",RUS,
+8479976,https://assets.nhle.com/mugs/nhl/20242025/UTA/8479976.png,{'default': 'Juuso'},"{'default': 'Valimaki', 'cs': 'Välimäki', 'fi': 'Välimäki', 'sk': 'Välimäki', 'sv': 'Välimäki'}",4,D,L,76,221,193,100,1998-10-06,"{'default': 'Tampere', 'sv': 'Tammerfors'}",FIN,
+8478971,https://assets.nhle.com/mugs/nhl/20242025/UTA/8478971.png,{'default': 'Connor'},{'default': 'Ingram'},39,G,L,73,218,185,99,1997-03-31,{'default': 'Saskatoon'},CAN,{'default': 'SK'}
+8483530,https://assets.nhle.com/mugs/nhl/20242025/UTA/8483530.png,{'default': 'Jaxson'},{'default': 'Stauber'},33,G,L,75,174,191,79,1999-04-27,{'default': 'Wayzata'},USA,{'default': 'MN'}
+8478872,https://assets.nhle.com/mugs/nhl/20242025/UTA/8478872.png,{'default': 'Karel'},{'default': 'Vejmelka'},70,G,R,76,224,193,102,1996-05-25,"{'default': 'Trebic', 'cs': 'Třebíč', 'fi': 'Třebíč ', 'sk': 'Třebíč'}",CZE,

@@ -69,6 +69,7 @@ class StandingAnalyzer:
                 
         return df['placeName']
         
+        
 
 # Create instance of the Standing analyzer
 analyzer = StandingAnalyzer()

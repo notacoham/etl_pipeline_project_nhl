@@ -68,9 +68,37 @@ class RosterDataAnalyzer:
         plt.xlabel(stat_column.capitalize())
         plt.ylabel('Number of Players')
         plt.show()
+        
+    def load_data_to_csv(self):
+        df = self.create_player_dataframe()
+        
+        if df is None:
+            print("Cannot create file without player data")
+            return
+        
+        df.to_csv(f'roster_data_{self.season}', index=False)
+
+    def read_csv_data(self):
+        read_df = pd.read_csv(f'roster_data_{self.season}')
+        return read_df
 
 
+# Create instance of RosterDataAnalyzer
 team_roster = RosterDataAnalyzer('uta', '20242025')
+
+# Instantiate the player dataframe
 player_dataframe = team_roster.create_player_dataframe()
+
+# Run player count function
 player_count = team_roster.get_roster_count()
-plot_player_height = team_roster.plot_player_stats()
+print(player_count)
+
+# plot the player stats
+stats = team_roster.plot_player_stats()
+
+# load to new csv file
+load = team_roster.load_data_to_csv()
+
+# read csv file
+read = team_roster.read_csv_data()
+print(read)
